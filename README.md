@@ -15,15 +15,6 @@ I'm currently studying Software Development and Computer Algorithms, working tow
 
 ##
 
-<div align="center">
-  <a href="https://github.com/petersonwilliam">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=petersonwilliam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petersonwilliam&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
-</div>
-
-##
-
 <div>
   <a href="https://www.youtube.com/@petersonwilliam97" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
@@ -32,6 +23,4 @@ I'm currently studying Software Development and Computer Algorithms, working tow
   <a href="https://www.instagram.com/petersonwilliam97/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-
-
 </div>
