@@ -2,8 +2,6 @@
 
 I'm currently studying Software Development and Computer Algorithms, working toward becoming a Full-Stack Developer. I primarily build with JavaScript, HTML, and CSS, and I'm currently expanding my skills with TypeScript, React, and Java for back-end development.
 
-🌱 **Current Project:** **CozyForecast** – A cozy pixel-inspired weather application built to strengthen my Full-Stack development skills.
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Peter-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Peter-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
