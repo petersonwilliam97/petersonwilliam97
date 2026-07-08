@@ -1,14 +1,13 @@
-## Hello there! I'm Peterson William, an aspiring Full-Stack Developer from Brazil. 🇧🇷
+## Peterson William
 
-I'm currently studying Software Development and Computer Algorithms, working toward becoming a Full-Stack Developer. I primarily build with JavaScript, HTML, and CSS, and I'm currently expanding my skills with TypeScript, React, and Java for back-end development.
+Junior Full-Stack Developer | Computer Science Student 🇧🇷
+
+I'm a Computer Science student and Junior Full-Stack Developer focused on building scalable software with **Kotlin** and **Java**, following clean code principles and software architecture best practices.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Peter-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Peter-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Peter-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Peter-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Peter-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Peter-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Peter-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Peter-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
 ##
