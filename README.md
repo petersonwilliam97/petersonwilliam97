@@ -1,46 +1,35 @@
 # Peterson William
 
-### Biology Student • Data Enthusiast • Scientific Computing
+### Biological Sciences Student • Data Analysis
 
-> *"Nature leaves patterns. Code helps reveal them."*
-
----
-
-## About me
-
-I am a Biology student passionate about understanding life through data.
-
-Programming started as a hobby and became one of my favorite tools for solving problems, automating tasks and exploring complex systems. My interests lie where biology, statistics and computing meet.
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Peter-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Peter-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="Peter-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
-</div>
-
-Currently, I am learning:
-
-- 🐍 Python
-- 📊 R
-- 🗄️ SQL
-- 📈 Data Analysis
-- 🔬 Scientific Computing
-- 🧬 Bioinformatics Fundamentals
-
-I enjoy building projects that combine science, automation, reproducible research and data visualization.
+> *"Alles hat ein Ende, nur die Wurst hat zwei."*
 
 ---
 
-## Interests
+## About
 
-- 🧬 Evolution
-- 🌱 Ecology
-- 📊 Data Analysis
-- 🐍 Python
-- 📈 Statistics
-- 🧠 Bioinformatics
-- 🗺️ Geographic Information Systems (GIS)
-- ☕ Coffee
+Biological Sciences student with an interest in data science, data analysis and bioinformatics.
+
+I use programming as a tool to analyze data, automate workflows and build projects related to science.
+
+Currently learning:
+
+- Python
+- R
+- SQL
+- Data Science/Analysis
+- Bioinformatics
+
+---
+
+## Areas of Interest
+
+- Evolution
+- Ecology
+- Bioinformatics
+- Data Analysis
+- Statistics
+- Geographic Information Systems (GIS)
 
 ---
 
@@ -59,19 +48,7 @@ I enjoy building projects that combine science, automation, reproducible researc
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Development
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-##
-
-<div align="left">
-  <a href="https://www.youtube.com/@petersonwilliam97" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://www.instagram.com/petersonwilliam97/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</div>
