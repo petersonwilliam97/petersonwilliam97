@@ -24,11 +24,11 @@ Currently learning:
 
 ## Areas of Interest
 
-- Evolution
-- Ecology
 - Bioinformatics
+- Data Science
 - Data Analysis
 - Statistics
+- Ecology
 - Geographic Information Systems (GIS)
 
 ---
